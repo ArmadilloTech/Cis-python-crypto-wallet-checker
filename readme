@@ -1,0 +1,25 @@
+1. install python
+2.
+pip3 install requests
+3. (MAC) 
+python3 bitcoinBalance.py
+
+4. enter a bitcoin address
+
+5. see the data in the terminal for current balance, total recieved, and total spent
+
+~~ NEW FEATURES TO ADD ~~
+1. convert to usd ** FINISHED
+2. color code in terminal 
+
+
+# future FUTURE features
+        # 1.List all transactions with the amount and history
+        # 2. see if any transactions are consistent and try to connect them (possible fraud/ laundering)
+        # 3.add multiple input addresses
+        # 4. add gui or add colors to console
+        # 5. add error handling instead of just displaying
+        # 6. currency selector
+
+
+        #USE ADRUINO TO DISPLAY CURRENT PORTFOLIO VALUE BASED ON CURRENT PRICE
